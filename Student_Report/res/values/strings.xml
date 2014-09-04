@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Student_Report</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_students">Add_students</string>
+    <string name="title_activity_admin_page">Admin_page</string>
+    <string name="title_activity_create_quiz">Create_quiz</string>
+    <string name="title_activity_student_addtoquiz">Student_addtoquiz</string>
+    <string name="title_activity_addtoquiz_adapter">AddtoquizAdapter</string>
+    <string name="title_activity_admin_addtoquiz">Admin_addtoquiz</string>
+    <string name="title_activity_admin_addtoquiz_adapter">AdminAddtoquizAdapter</string>
+
+</resources>
